@@ -1,6 +1,21 @@
-
-
 {
-    "squadName": "squad",
- 
+  "squadName": "Super hero squad",
+
+  "members": [
+    {
+      
+        "Radiation blast"
+      ]
+    },
+    {
+    
+        "Superhuman reflexes"
+      ]
+    },
+    {
+     
+        "Interdimensional travel"
+      ]
+    }
+  ]
 }
